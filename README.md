@@ -10,7 +10,7 @@ A console-based inventory management system built in C++ using Object-Oriented P
 
 ## Technologies Used
 - Language: C++
-- Concepts: Object-Oriented Programming (OOP), Linked Lists, Data Structures
+- Concepts:Linked Lists, Data Structures
 
 ## How to Run
 1. Open the project in any C++ IDE (e.g., VS Code)
